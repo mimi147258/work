@@ -1,4 +1,5 @@
-  # 域名规则 (DOMAIN)
+payload:  
+ # 域名规则 (DOMAIN)
   - DOMAIN,auth.wosms.cn
   - DOMAIN,config.cmpassport.com
   - DOMAIN,enrichgw.10010.com
